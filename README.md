@@ -1,11 +1,11 @@
 # Open-source stack
 
-![GitHub Repo stars](https://img.shields.io/github/stars/forge42dev/open-source-stack?style=social)
-![npm](https://img.shields.io/npm/v/open-source-stack?style=plastic)
-![GitHub](https://img.shields.io/github/license/forge42dev/open-source-stack?style=plastic)
-![npm](https://img.shields.io/npm/dy/open-source-stack?style=plastic) 
-![npm](https://img.shields.io/npm/dw/open-source-stack?style=plastic) 
-![GitHub top language](https://img.shields.io/github/languages/top/forge42dev/open-source-stack?style=plastic) 
+![GitHub Repo stars](https://img.shields.io/github/stars/forge42dev/hey-youtube?style=social)
+![npm](https://img.shields.io/npm/v/hey-youtube?style=plastic)
+![GitHub](https://img.shields.io/github/license/forge42dev/hey-youtube?style=plastic)
+![npm](https://img.shields.io/npm/dy/hey-youtube?style=plastic)
+![npm](https://img.shields.io/npm/dw/hey-youtube?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/forge42dev/hey-youtube?style=plastic)
 
 Full starter stack to develop CJS/ESM compatible npm packages with TypeScript, Vitest, ESLint, Prettier, and GitHub Actions.
 
@@ -38,7 +38,7 @@ Build your own open-source project today! 🚀
 1. Use this template to create a new repository.
 2. Clone the repository.
 3. Change the package name in `package.json`.
-4. Change the `open-source-stack` dependency in your test-apps to your name
+4. Change the `hey-youtube` dependency in your test-apps to your name
 5. Install the dependencies with `npm install`.
 6. Change the `repository`, `bugs`, and `homepage` fields in `package.json` to your github repo.
 7. Change the license if required.
@@ -52,4 +52,3 @@ Build your own open-source project today! 🚀
 - `npm run lint` - Lint the code.
 - `npm run dev` - Start the package and ESM test app in watch mode for development.
 - `npm run dev:cjs` - Start the package and CJS test app in watch mode for development.
-

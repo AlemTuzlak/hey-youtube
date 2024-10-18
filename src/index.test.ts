@@ -1,7 +1,7 @@
-import { test } from "."
+import { heyYouTube } from "."
 
-describe("test", () => {
+describe("heyYouTube", () => {
 	it("should work", () => {
-		expect(test()).toBeUndefined()
+		expect(heyYouTube()).toBeUndefined()
 	})
 })

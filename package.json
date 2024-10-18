@@ -1,5 +1,5 @@
 {
-	"name": "open-source-stack",
+	"name": "hey-youtube",
 	"version": "1.0.0",
 	"description": "Minimal open-source stack to help you ship an open-source package in TS",
 	"main": "./dist/index.js",
@@ -44,19 +44,14 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/forge42dev/open-source-stack.git"
+		"url": "git+https://github.com/AlemTuzlak/hey-youtube.git"
 	},
 	"bugs": {
-		"url": "https://github.com/forge42dev/open-source-stack/issues"
+		"url": "https://github.com/AlemTuzlak/hey-youtube/issues"
 	},
-	"files": [
-		"dist"
-	],
-	"workspaces": [
-		".",
-		"test-apps/*"
-	],
-	"homepage": "https://github.com/forge42dev/open-source-stack#readme",
+	"files": ["dist"],
+	"workspaces": [".", "test-apps/*"],
+	"homepage": "https://github.com/AlemTuzlak/hey-youtube#readme",
 	"devDependencies": {
 		"@arethetypeswrong/cli": "^0.15.4",
 		"@biomejs/biome": "^1.8.3",
